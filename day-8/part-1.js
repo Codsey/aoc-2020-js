@@ -25,8 +25,6 @@ try {
       break;
     }
   }
-  console.log(Math.max(...executedInstructions));
-  console.log(data.length);
   console.log(accumulator);
 } catch (err) {
   console.error(err);
